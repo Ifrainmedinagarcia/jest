@@ -13,3 +13,10 @@ describe('Contain elements in the array Fruits', () => {
     });
 
 });
+
+describe('Contain elements in the array colors', () => {
+    test('we check than exits a color ', () => {
+        expect(arrayColors()).toContain('Blue')
+    });
+});
+
