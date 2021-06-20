@@ -8,6 +8,7 @@
     "test:coverage": "jest --coverage",
     "test:watch": "jest --watch"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -16,5 +17,8 @@
     "@babel/preset-env": "^7.14.5",
     "babel-jest": "^27.0.2",
     "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
   }
 }
