@@ -2,7 +2,7 @@
 
 exports[`it is snapshot time always failed the snapshot 1`] = `
 Object {
-  "createAt": 2021-06-20T19:57:32.296Z,
+  "createAt": 2021-06-21T18:50:50.837Z,
   "id": 4,
 }
 `;
